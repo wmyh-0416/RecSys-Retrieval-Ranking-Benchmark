@@ -1,4 +1,4 @@
-# Sequential Recommendation Benchmark (MovieLens)
+# RecSys Retrieval-Ranking Benchmark
 
 This repository is refactored into a reproducible benchmark layout:
 

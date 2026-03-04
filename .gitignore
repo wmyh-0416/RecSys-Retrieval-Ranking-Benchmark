@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Data / artifacts
+ml-32m/
+datasets/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.zip
+
+# Logs
+*.log
+
+# Optional local caches
+.ipynb_checkpoints/

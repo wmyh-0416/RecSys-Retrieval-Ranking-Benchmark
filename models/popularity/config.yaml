@@ -1,0 +1,11 @@
+data_dir: .
+dataset_name: ml-32m
+max_seq_len: 50
+batch_size: 1024
+num_neg_eval: 100
+seed: 42
+save_dir: outputs/popularity_ml32m_final
+min_user_inter: 5
+min_item_inter: 0
+num_workers: 0
+max_users: 0
